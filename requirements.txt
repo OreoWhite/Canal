@@ -1,0 +1,5 @@
+requests
+edge-tts>=6.1.12
+google-api-python-client
+google-auth
+google-auth-oauthlib

@@ -1,0 +1,10 @@
+{
+  "nicho": "curiosidades y datos sorprendentes que casi nadie conoce (ciencia, historia, animales, espacio, cuerpo humano, psicología)",
+  "idioma": "español neutro, válido para España y Latinoamérica",
+  "voz": "es-ES-AlvaroNeural",
+  "velocidad_voz": "+5%",
+  "modelo_gemini": "gemini-2.5-flash",
+  "privacidad": "public",
+  "categoria_youtube": "27",
+  "num_escenas": 6
+}
